@@ -1,0 +1,26 @@
+﻿
+
+#home-sec {
+    height: 10px;px;
+    color:#fff;
+    text-align:center;
+ 
+}
+    #home-sec .overlay {
+        background-color:rgba(105, 100, 100, 0.8);
+        min-height:100px;
+    
+        
+
+ }
+ nav a:hover {
+    background-color: rgb(252, 252, 252);
+padding: 10px;}
+   
+   nav {
+    background-color:#70524e ;
+padding: 10px}
+nav a{
+    text-decoration: rgb(78, 23, 23);
+    padding: 15px;
+   color:#292222;}
